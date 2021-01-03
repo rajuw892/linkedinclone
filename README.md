@@ -2,7 +2,7 @@ This project was bootstrapped with [Create React App](https://github.com/faceboo
 
 Here is Hosted webapp Link : https://linkedinclone-2b02a.web.app/ 
 
-[alt text](https://github.com/rajuw892/linkedinclone/blob/main/Linkedincloneee.png)
+https://github.com/rajuw892/linkedinclone/blob/main/Linkedincloneee.png
 
 ## Available Scripts
 
